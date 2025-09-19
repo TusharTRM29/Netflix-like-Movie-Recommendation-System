@@ -1,2 +1,1 @@
-# Netflix-like-Movie-Recommendation-System
-clone of netflix
+# movie_recommender_system
